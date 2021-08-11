@@ -1,6 +1,6 @@
 # Hashtag Programação - Intensivão de Python
 
-## [Aula 1]
+## [Aula 1] - Automação de processos
 
 ```sh
 # Install Jupyter + Dependencies
@@ -9,7 +9,13 @@ pip install jupyterlab pyautogui pandas tk
 jupyter-lab
 ```
 
-## [Aula 2]
+## [Aula 2] - Análise de dados
+
+```sh
+pip install plotly
+```
+
+    "A análise que você faz são de informações que saltam os olhos"
 
 ## [Aula 3]
 
