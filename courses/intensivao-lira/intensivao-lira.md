@@ -15,7 +15,7 @@ jupyter-lab
 pip install plotly
 ```
 
-    "A análise que você faz são de informações que saltam os olhos"
+> "A análise que você faz são de informações que saltam os olhos"
 
 ## [Aula 3] - Web Scraping
 
@@ -30,11 +30,15 @@ Doc for each browser: https://www.selenium.dev/documentation/pt-br/webdriver/dri
 Install location for linux: `/usr/local/bin`
 Install location for Windows: `C:\Users\YOUR_USERNAME\Anaconda3\`
 
-## [Aula 4]
+## [Aula 4] - Data Science
+
+```sh
+pip install matplotlib seaborn
+```
 
 ## Files:
 
-- [Aula 1](aula1.ipynb)
-- [Aula 2](aula2.ipynb)
-- [Aula 3](aula3.ipynb)
-- [Aula 4](aula4.ipynb)
+- [Aula 1](Aula_1.ipynb)
+- [Aula 2](Aula_2.ipynb)
+- [Aula 3](Aula_3.ipynb)
+- [Aula 4](Aula_4.ipynb)
