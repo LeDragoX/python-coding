@@ -1,2 +1,9 @@
 # ipynb folders/files
 .ipynb*/
+
+# Heavy data
+fashion-mnist-*.csv
+**/data/*.zip
+**/data/test.p
+**/data/train.p
+**/data/valid.p
