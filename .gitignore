@@ -1,5 +1,7 @@
 # ipynb folders/files
 .ipynb*/
+# Auto generated files (bug)
+Untitled.ipynb
 
 # Heavy data
 **/data/**/fashion-mnist-*.csv
