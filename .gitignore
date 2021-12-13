@@ -9,3 +9,7 @@ Untitled*.ipynb
 **/data/**/test.p
 **/data/**/train.p
 **/data/**/valid.p
+# Neural Networks checkpoints
+**/ckpt_*.data-*
+**/ckpt_*.INDEX
+**/checkpoint
