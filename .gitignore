@@ -2,13 +2,14 @@
 .ipynb*/
 # Auto generated files (bug)
 Untitled*.ipynb
+*-jvsc-*.ipynb
 
 # Heavy data
 **/data/**/fashion-mnist-*.csv
-**/data/**/*.zip
 **/data/**/test.p
 **/data/**/train.p
 **/data/**/valid.p
+**/avaliacao-p2-previsao-de-eleicao/data/**/*.csv
 # Neural Networks checkpoints
 **/ckpt_*.data-*
 **/ckpt_*.INDEX
